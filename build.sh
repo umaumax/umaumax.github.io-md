@@ -15,9 +15,11 @@ pushd "$github_io_repo_root"
 git rm -r . | true
 popd
 
-cp "$content_root/README.md" "$github_io_repo_root"
-cp -r _layouts/ "$github_io_repo_root"
-cp -r "$content_output_root/"* "$github_io_repo_root"
+# NOTE: ディレクトリごと
+cp -R _layouts "$github_io_repo_root"
+# NOTE: ファイルのみ
+cp -r _book/ "$github_io_repo_root"
+cp "$content_root"/README.md "$github_io_repo_root"
 pushd "$github_io_repo_root"
 git add .
 git commit -m 'Update blog content' --no-verify

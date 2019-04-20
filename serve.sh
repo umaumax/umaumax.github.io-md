@@ -1,3 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 cd $(dirname $0)
-gitbook serve
+cd public
+gitbook --lrport 35730 --port 4001 serve
