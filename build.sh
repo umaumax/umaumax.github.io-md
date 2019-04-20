@@ -20,8 +20,8 @@ cp -r _layouts/ "$github_io_repo_root"
 cp -r "$content_output_root/"* "$github_io_repo_root"
 pushd "$github_io_repo_root"
 git add .
-git commit -m 'Update blog content'
+git commit -m 'Update blog content' --no-verify
 git push -u origin master
 popd
 git add "$github_io_repo_root"
-git commit -m "Update $github_io_repo_root submodule"
+git commit -m "Update $github_io_repo_root submodule" --no-verify
