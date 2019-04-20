@@ -1,0 +1,4 @@
+[submodule "umaumax.github.io"]
+	path = umaumax.github.io
+	url = https://github.com/umaumax/umaumax.github.io
+	branch = master
