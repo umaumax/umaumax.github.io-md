@@ -18,7 +18,7 @@ popd
 # NOTE: ディレクトリごと
 cp -R _layouts "$github_io_repo_root"
 # NOTE: ファイルのみ
-cp -r "$content_output_root" "$github_io_repo_root"
+cp -r "$content_output_root"/ "$github_io_repo_root"
 rm -rf "$content_output_root"
 cp "$content_root"/README.md "$github_io_repo_root"
 pushd "$github_io_repo_root"
