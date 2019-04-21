@@ -28,3 +28,5 @@ git push -u origin master
 popd
 git add "$github_io_repo_root"
 git commit -m "Update $github_io_repo_root submodule" --no-verify
+git add "$content_root/SUMMARY.md"
+git commit -m "Update SUMMARY.md" --no-verify
