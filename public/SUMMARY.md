@@ -7,6 +7,8 @@
     * [libtooling tutorial](clang/libtooling/clang-libtooling tutorial.md)
 - font
   * [monaco](font/monaco.md)
+- foods
+  * [sweets](foods/sweets.md)
 - github.io
   * [to-start](github.io/how-to-start.md)
 - hpc
