@@ -9,6 +9,8 @@
 * この商品はロープロファイル対応だった．(はじめから，スリムタイプ用で標準サイズ（ローエンド）のパーツも付属)
 * 拡張カードを固定するためのネジは付属していない(付属していない場合のほうが多いらしい)
   * インチネジ(not ミリネジ)
+    * [TK\-P8【六角インチネジ】DOS/Vパソコンの組立てに必要なパーツです。 \- サンワサプライ株式会社]( https://www.sanwa.co.jp/product/syohin.asp?code=TK-P8 )
+    * 予備のネジがあったりするので、仮にそれを利用しても良い
 
 * [マウスコンピューター FAQ アーカイブページ]( https://www2.mouse-jp.co.jp/ssl/user_support2/sc_faq_documents.asp?FaqID=23311 )
 * [PCIスロットカバー　パソコン初心者講座]( https://www.pc-master.jp/jisaku/pcislot-cover.html )
@@ -26,7 +28,9 @@
 
 * [10GBase\-TのNIC届いたので取り付け – 大ちゃんのいろいろ雑記]( https://www.taruki.com/wp/?p=6394 )
 
-取付後の確認コマンド例
+* 取付後の確認コマンド例
+  * 増設後の`nmcli`では、物理的にLANをつなげてから
+  * driverのinstallは不要(Ubuntu16.04)
 ```
 $ ifconfig
 $ lspci -v
@@ -39,24 +43,24 @@ e.g.
 ```
 $ lspci -v
 03:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 15)
-	Subsystem: Micro-Star International Co., Ltd. [MSI] RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
-	Flags: bus master, fast devsel, latency 0, IRQ 123
-	I/O ports at 4000 [size=256]
-	Memory at a2104000 (64-bit, non-prefetchable) [size=4K]
-	Memory at a2100000 (64-bit, non-prefetchable) [size=16K]
-	Capabilities: <access denied>
-	Kernel driver in use: r8169
-	Kernel modules: r8169
+  Subsystem: Micro-Star International Co., Ltd. [MSI] RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  Flags: bus master, fast devsel, latency 0, IRQ 123
+  I/O ports at 4000 [size=256]
+  Memory at a2104000 (64-bit, non-prefetchable) [size=4K]
+  Memory at a2100000 (64-bit, non-prefetchable) [size=16K]
+  Capabilities: <access denied>
+  Kernel driver in use: r8169
+  Kernel modules: r8169
 
 04:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 06)
-	Subsystem: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
-	Flags: bus master, fast devsel, latency 0, IRQ 124
-	I/O ports at 3000 [size=256]
-	Memory at a0004000 (64-bit, prefetchable) [size=4K]
-	Memory at a0000000 (64-bit, prefetchable) [size=16K]
-	Capabilities: <access denied>
-	Kernel driver in use: r8169
-	Kernel modules: r8169
+  Subsystem: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  Flags: bus master, fast devsel, latency 0, IRQ 124
+  I/O ports at 3000 [size=256]
+  Memory at a0004000 (64-bit, prefetchable) [size=4K]
+  Memory at a0000000 (64-bit, prefetchable) [size=16K]
+  Capabilities: <access denied>
+  Kernel driver in use: r8169
+  Kernel modules: r8169
 ```
 
 * prefetchable, non-prefetchable
