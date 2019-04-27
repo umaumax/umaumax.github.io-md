@@ -38,3 +38,5 @@
   * [zsh](shell/zsh.md)
 - terminal
   * [terminator](terminal/terminator.md)
+- web
+  - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
