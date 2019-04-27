@@ -231,7 +231,7 @@ dst/src/src.txt
 * 基本的に，srcには`/`を付加し，dstにはディレクトリ名を含めて指定すると良い(ディレクトリは自動生成される)
 
 * ubuntuではcpのsrc/のslashの有無にかかわらずTを付加しないとダメ
-  * cp -RT src ../self_calibration/src
+  * cp -RT src ../xxx/src
 
 
 ----
