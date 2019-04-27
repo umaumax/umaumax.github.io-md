@@ -10,7 +10,14 @@
 * 拡張カードを固定するためのネジは付属していない(付属していない場合のほうが多いらしい)
   * インチネジ(not ミリネジ)
     * [TK\-P8【六角インチネジ】DOS/Vパソコンの組立てに必要なパーツです。 \- サンワサプライ株式会社]( https://www.sanwa.co.jp/product/syohin.asp?code=TK-P8 )
-    * 予備のネジがあったりするので、仮にそれを利用しても良い
+    * [六角インチネジ TKP8の通販ならマルツオンライン]( https://www.marutsu.co.jp/pc/i/556423/ )
+      * `6#（T32）×6m`
+        * 6#は径
+        * 6mmは高さ(head部分は含めない)
+        * [ネジログ　インチねじサイズ表\|ネジの豆知識ネジログ]( https://www.tsurugacorp.co.jp/nejilog/01/04.html )
+    * PCの筐体に予備のネジがあったりするので、仮にそれを利用しても良い
+      * PCIeに刺したNICが外に出る部分を止めるのネジ部分と一致?
+        * その中のネジはおそらく#5かな?
 
 * [マウスコンピューター FAQ アーカイブページ]( https://www2.mouse-jp.co.jp/ssl/user_support2/sc_faq_documents.asp?FaqID=23311 )
 * [PCIスロットカバー　パソコン初心者講座]( https://www.pc-master.jp/jisaku/pcislot-cover.html )
