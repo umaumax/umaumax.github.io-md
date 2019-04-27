@@ -35,5 +35,6 @@
   * [coding_rule](shell/coding_rule.md)
   * [ln](shell/ln.md)
   * [ssh](shell/ssh.md)
+  * [zsh](shell/zsh.md)
 - terminal
   * [terminator](terminal/terminator.md)
