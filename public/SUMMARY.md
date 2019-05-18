@@ -40,3 +40,4 @@
   * [terminator](terminal/terminator.md)
 - web
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
+  * [svg](web/svg.md)
