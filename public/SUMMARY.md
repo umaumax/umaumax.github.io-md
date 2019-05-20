@@ -16,6 +16,8 @@
 - image_processing
   * [camera_calibration](image_processing/camera_calibration.md)
   * [image_rectification](image_processing/image_rectification.md)
+- js
+  * [object](js/object.md)
 - os
   - Ubuntu
     * [display](os/Ubuntu/dual-display.md)
@@ -27,6 +29,7 @@
 - pc_parts
   * [PCI_Express](pc_parts/PCI_Express.md)
   * [PCIe_NIC](pc_parts/PCIe_NIC.md)
+  * [sd_card](pc_parts/sd_card.md)
 - python
   * [tips](python/tips.md)
 - shell
@@ -40,4 +43,5 @@
   * [terminator](terminal/terminator.md)
 - web
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
+  * [html](web/html.md)
   * [svg](web/svg.md)
