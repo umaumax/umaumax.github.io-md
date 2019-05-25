@@ -5,6 +5,8 @@
 - clang
   - libtooling
     * [libtooling tutorial](clang/libtooling/clang-libtooling tutorial.md)
+- device
+  * [camera](device/camera.md)
 - font
   * [monaco](font/monaco.md)
 - foods
@@ -17,6 +19,7 @@
   * [camera_calibration](image_processing/camera_calibration.md)
   * [image_rectification](image_processing/image_rectification.md)
 - js
+  * [console.log](js/console.log.md)
   * [object](js/object.md)
 - os
   - Ubuntu
