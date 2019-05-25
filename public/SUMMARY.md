@@ -44,6 +44,8 @@
   * [zsh](shell/zsh.md)
 - terminal
   * [terminator](terminal/terminator.md)
+- tips
+  * [useful_links](tips/useful_links.md)
 - web
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
   * [html](web/html.md)
