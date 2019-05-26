@@ -14,6 +14,7 @@
 - github.io
   * [to-start](github.io/how-to-start.md)
 - hpc
+  * [BogoMIPS](hpc/BogoMIPS.md)
   * [performance](hpc/performance.md)
 - image_processing
   * [camera_calibration](image_processing/camera_calibration.md)
