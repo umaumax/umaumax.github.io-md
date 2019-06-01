@@ -46,6 +46,7 @@
 - terminal
   * [terminator](terminal/terminator.md)
 - tips
+  * [binary](tips/binary.md)
   * [useful_links](tips/useful_links.md)
 - web
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
