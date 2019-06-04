@@ -40,6 +40,7 @@
   * [array](shell/array.md)
   * [cmd](shell/cmd.md)
   * [coding_rule](shell/coding_rule.md)
+  * [jq](shell/jq.md)
   * [ln](shell/ln.md)
   * [ssh](shell/ssh.md)
   * [zsh](shell/zsh.md)
