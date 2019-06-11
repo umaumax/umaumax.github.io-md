@@ -42,6 +42,7 @@
   * [coding_rule](shell/coding_rule.md)
   * [jq](shell/jq.md)
   * [ln](shell/ln.md)
+  * [pgrep](shell/pgrep.md)
   * [ssh](shell/ssh.md)
   * [zsh](shell/zsh.md)
 - terminal
