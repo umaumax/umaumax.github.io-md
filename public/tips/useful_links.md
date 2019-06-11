@@ -32,3 +32,6 @@
 ### float演算誤差
 * [Herbie: Automatically Improving Floating Point Accuracy]( https://herbie.uwplse.org/ )
   * [Herbie web demo]( https://herbie.uwplse.org/demo/ )
+
+## assembly
+* [x86/x86\_64関数呼び出しチートシートを書いた \| d\.sunnyone\.org]( http://d.sunnyone.org/2012/09/x86x8664.html )
