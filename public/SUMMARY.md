@@ -50,6 +50,7 @@
 - tips
   * [binary](tips/binary.md)
   * [color](tips/color.md)
+  * [test](tips/test.md)
   * [useful_links](tips/useful_links.md)
 - web
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
