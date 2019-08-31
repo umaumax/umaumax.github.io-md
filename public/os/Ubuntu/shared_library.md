@@ -53,5 +53,7 @@ cat /etc/ld.so.conf.d/*.conf | grep -v "^#" | tr '\n' ':'
 
 `ldd ./xxx`とすることで簡単に依存関係がわかる
 
+* opencvに依存するケースでも動作させた実績あり
+
 ### FYI
 * `lddtree`: `sudo apt install pax-utils`
