@@ -19,6 +19,7 @@
 - image_processing
   * [camera_calibration](image_processing/camera_calibration.md)
   * [image_rectification](image_processing/image_rectification.md)
+  * [open_cv](image_processing/open_cv.md)
 - js
   * [console.log](js/console.log.md)
   * [object](js/object.md)
