@@ -5,6 +5,8 @@
 - clang
   - libtooling
     * [libtooling tutorial](clang/libtooling/clang-libtooling tutorial.md)
+- cpp
+  * [references](cpp/references.md)
 - device
   * [camera](device/camera.md)
 - font
