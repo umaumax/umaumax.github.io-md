@@ -27,6 +27,8 @@
   * [object](js/object.md)
 - os
   - Ubuntu
+    * [autofs](os/Ubuntu/autofs.md)
+    * [docker](os/Ubuntu/docker.md)
     * [display](os/Ubuntu/dual-display.md)
     * [ffmpeg_build](os/Ubuntu/ffmpeg_build.md)
     * [partition](os/Ubuntu/partition.md)
