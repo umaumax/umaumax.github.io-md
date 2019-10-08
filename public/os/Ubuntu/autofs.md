@@ -62,6 +62,10 @@ $ mount
 $target_host_addr:/opt/remote_data on /opt/local_data type nfs4 (rw,relatime,vers=4.0,rsize=1048576,wsize=1048576,namlen=255,hard,proto=tcp,timeo=600,retrans=2,sec=sys,clientaddr=yy.yy.yy.yy,local_lock=none,addr=xx.xx.xx.xx)
 ```
 
+### 同一のディレクトリにmountしてしまった場合
+* `sudo umount`ではhang upしてしまい，rebootをすると直った
+  * このとき，対象のディレクトリに対するアクセスをする動作に対するレスポンスが非常に遅い(or 応答なし)のため，`ls`や`bash`での補完機能でアクセスする際にterminalが固まってしまうため注意
+
 ## FYI
 * [automount の設定 \- maruko2 Note\.]( http://www.maruko2.com/mw/automount_%E3%81%AE%E8%A8%AD%E5%AE%9A )
 * [9\.4\.2\. autofs の設定 Red Hat Enterprise Linux 6 \| Red Hat Customer Portal]( https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/6/html/storage_administration_guide/s2-nfs-config-autofs )
