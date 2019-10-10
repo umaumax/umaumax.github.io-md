@@ -6,6 +6,7 @@
   - libtooling
     * [libtooling tutorial](clang/libtooling/clang-libtooling tutorial.md)
 - cpp
+  * [boost](cpp/boost.md)
   * [references](cpp/references.md)
 - device
   * [camera](device/camera.md)
