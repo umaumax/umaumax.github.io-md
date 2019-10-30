@@ -10,7 +10,10 @@
 	* Google search results shortcuts
 	* Keepa - Amazon Price Tracker
 	* Momentum
+	* OctoLinker
+	* Octotree
 	* OneTab
+	* Refined GitHub
 	* Session Buddy
 	* Video Adblocker for Youtube™ Extension
 	* Vimium
