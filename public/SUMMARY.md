@@ -62,3 +62,5 @@
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
   * [html](web/html.md)
   * [svg](web/svg.md)
+- zsh
+  * [completion](zsh/zsh-completion.md)
