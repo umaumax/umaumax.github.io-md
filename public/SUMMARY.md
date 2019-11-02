@@ -50,6 +50,7 @@
   * [ln](shell/ln.md)
   * [pgrep](shell/pgrep.md)
   * [ssh](shell/ssh.md)
+  * [completion](shell/zsh-completion.md)
   * [zsh](shell/zsh.md)
 - terminal
   * [terminator](terminal/terminator.md)
@@ -62,5 +63,3 @@
   - [chrome_extensions](web/chrome_extensions/chrome_extensions.md)
   * [html](web/html.md)
   * [svg](web/svg.md)
-- zsh
-  * [completion](zsh/zsh-completion.md)
