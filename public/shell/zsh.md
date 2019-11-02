@@ -233,6 +233,22 @@ dst/src/src.txt
 * ubuntuではcpのsrc/のslashの有無にかかわらずTを付加しないとダメ
   * cp -RT src ../xxx/src
 
+## 関数を(コピーして)renameしたい
+[zsh \- Rename selfdefined function \- Super User]( https://superuser.com/questions/553153/rename-selfdefined-function )
+
+```
+rename_func() {
+    if (( $# != 2 )); then
+        echo "Usage: rename_func <oldname> <newname>" >&2
+        return 1
+    fi
+    oldname=$1
+    newname=$2
+    local code=$(echo "$newname () {"; whence -f $oldname | tail -n +2)
+    unset -f $oldname
+    eval "$code"
+}
+```
 
 ----
 
