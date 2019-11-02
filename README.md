@@ -19,7 +19,7 @@ git submodule update --init --recursive
 # access to localhost:4000 or localhost:4001
 # to update
 ./build.sh
-git push
+./push.sh
 ```
 
 ## local server
