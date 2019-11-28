@@ -48,6 +48,7 @@
   * [coding_rule](shell/coding_rule.md)
   * [jq](shell/jq.md)
   * [ln](shell/ln.md)
+  * [nm](shell/nm.md)
   * [pgrep](shell/pgrep.md)
   * [ssh](shell/ssh.md)
   * [completion](shell/zsh-completion.md)
