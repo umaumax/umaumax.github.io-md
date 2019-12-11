@@ -7,6 +7,8 @@
 	* Auto Replay for YouTube
 	* AutoPagerize
 	* Create Link
+	* find+ | Regex Find-in-Page Tool
+		* `command+shift+f`: mac shortcut
 	* Google search results shortcuts
 	* Keepa - Amazon Price Tracker
 	* Momentum
