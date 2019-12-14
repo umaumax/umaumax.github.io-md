@@ -10,6 +10,7 @@
 	* find+ | Regex Find-in-Page Tool
 		* `command+shift+f`: mac shortcut
 	* Google search results shortcuts
+	* [Lightning \(History, bookmark and tab search\) \- Chrome ウェブストア]( https://chrome.google.com/webstore/detail/lightning-history-bookmar/peboggmhnafokmnmdhabgogigpnolagj?hl=ja&gl=JP )
 	* Keepa - Amazon Price Tracker
 	* Momentum
 	* OctoLinker
