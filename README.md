@@ -31,6 +31,9 @@ git submodule update --init --recursive
 ## remote server(at github.io)
 * 内部構成はhtml形式
 
+## FMI
+[GitHub Pagesで反映されないページをすぐに反映させる方法 \- Qiita]( https://qiita.com/shge/items/ac20f45c9e8e0b4f33cc )
+
 ----
 
 ## FYI
