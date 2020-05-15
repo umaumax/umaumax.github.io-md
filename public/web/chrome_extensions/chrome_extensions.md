@@ -6,9 +6,13 @@
 	* Always Clear Downloads
 	* Auto Replay for YouTube
 	* AutoPagerize
+	* [Awesome Autocomplete for GitHub \- Chrome Web Store]( https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd )
 	* Create Link
+	* [Enhanced GitHub \- Chrome Web Store]( https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd/related )
+	* [File Icon for GitHub and GitLab \- Chrome Web Store]( https://chrome.google.com/webstore/detail/file-icon-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe/related )
 	* find+ | Regex Find-in-Page Tool
 		* `command+shift+f`: mac shortcut
+	* [Git History Browser Extension \- Chrome Web Store]( https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related )
 	* Google search results shortcuts
 	* [Lightning \(History, bookmark and tab search\) \- Chrome ウェブストア]( https://chrome.google.com/webstore/detail/lightning-history-bookmar/peboggmhnafokmnmdhabgogigpnolagj?hl=ja&gl=JP )
 	* Keepa - Amazon Price Tracker
@@ -17,6 +21,7 @@
 	* Octotree
 	* OneTab
 	* Refined GitHub
+		* disable `dim-bots` feature at Extension options link for `File Icon for GitHub and GitLab`
 	* Session Buddy
 	* Video Adblocker for Youtube™ Extension
 	* Vimium
